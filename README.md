@@ -1,4 +1,4 @@
 rosskinney.github.io
 ====================
 
-Github portfolio website
+This is my Github portfolio website, built entirely with HTML5, CSS3, JavaSript and jQuery
