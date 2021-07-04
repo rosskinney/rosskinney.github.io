@@ -13,7 +13,7 @@ body {
 }
 
 .container {
-  width: 500px;
+  width: 800px;
   margin: 40px;
   border-radius: 40px;
   background:  rgba(0,0,153,0.5);
@@ -38,4 +38,19 @@ color: #FF001A;
 
 p {
    font-family: 'Rockkitt', serif;
+}
+
+.column {
+  float: left;
+  width: 50%;
+
+
+}
+
+/* Clear floats after the columns */
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
